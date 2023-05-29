@@ -20,3 +20,17 @@ git clone https://github.com/hui126/Deep_Learning_Coding.git
 cd Deep_Learning_Coding
 python main.py
 ~~~
+
+
+## dropout形象理解
+参考：https://zhuanlan.zhihu.com/p/77609689
+
+让模型仅学到部分特征也能够识别该结果
+
+![example](images/dropout.png)
+
+## conv的卷积推导
+参考：https://blog.csdn.net/oBrightLamp/article/details/84561088
+
+## SGD和Adam之间的区别
+参考：https://blog.csdn.net/S20144144/article/details/103417502
